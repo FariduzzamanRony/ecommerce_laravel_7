@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2020-10-23: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Fri Oct 23 13:23:55 2020
+ By root
+
+</metadata>
+<defs>
+<font id="Flaticon" horiz-adv-x="512" >
+  <font-face 
+    font-family="Flaticon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F101"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
+    <glyph glyph-name="001-more" unicode="&#xf100;" 
+d="M0 192c0 35.3467 28.6533 64 64 64s64 -28.6533 64 -64s-28.6533 -64 -64 -64s-64 28.6533 -64 64zM192 192c0 35.3467 28.6533 64 64 64s64 -28.6533 64 -64s-28.6533 -64 -64 -64s-64 28.6533 -64 64zM384 192c0 35.3467 28.6533 64 64 64s64 -28.6533 64 -64
+s-28.6533 -64 -64 -64s-64 28.6533 -64 64z" />
+    <glyph glyph-name="002-show-more-button-with-three-dots" unicode="&#xf101;" 
+d="M256 320c-35.2002 0 -64 28.7998 -64 64s28.7998 64 64 64s64 -28.7998 64 -64s-28.7998 -64 -64 -64zM256 256c35.2002 0 64 -28.7998 64 -64s-28.7998 -64 -64 -64s-64 28.7998 -64 64s28.7998 64 64 64zM256 64c35.2002 0 64 -28.7998 64 -64s-28.7998 -64 -64 -64
+s-64 28.7998 -64 64s28.7998 64 64 64z" />
+  </font>
+</defs></svg>
